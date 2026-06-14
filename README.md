@@ -57,6 +57,7 @@ The focus is on identifying trends, anomalies, and system‑level behaviour usin
 
 ## Project Structure
 
+
 ```
 energy-system-analysis/
 │
@@ -66,6 +67,7 @@ energy-system-analysis/
 ├── Germany Renewable Power.docx
 └── time_series_60min_singleindex.csv
 ```
+
 
 ## Screenshots
 
