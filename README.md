@@ -64,8 +64,7 @@ energy-system-analysis/
 ├── Energy System Analysis.pptx
 ├── Energy_System_Analysis.ipynb
 ├── Germany Renewable Power.docx
-├── time_series_60min_singleindex.csv
-└── README.md
+└── time_series_60min_singleindex.csv
 ```
 
 ## Screenshots
